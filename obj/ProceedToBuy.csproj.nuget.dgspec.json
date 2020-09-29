@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\visual studio\\CTS MFPE Project V3\\backup\\Retail Product Management\\Retail Product Management\\ProceedToBuyModule\\ProceedToBuy\\ProceedToBuy.csproj": {}
+    "W:\\ProceedToBuyModule\\ProceedToBuy\\ProceedToBuy.csproj": {}
   },
   "projects": {
-    "G:\\visual studio\\CTS MFPE Project V3\\backup\\Retail Product Management\\Retail Product Management\\ProceedToBuyModule\\ProceedToBuy\\ProceedToBuy.csproj": {
+    "W:\\ProceedToBuyModule\\ProceedToBuy\\ProceedToBuy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\visual studio\\CTS MFPE Project V3\\backup\\Retail Product Management\\Retail Product Management\\ProceedToBuyModule\\ProceedToBuy\\ProceedToBuy.csproj",
+        "projectUniqueName": "W:\\ProceedToBuyModule\\ProceedToBuy\\ProceedToBuy.csproj",
         "projectName": "ProceedToBuy",
-        "projectPath": "G:\\visual studio\\CTS MFPE Project V3\\backup\\Retail Product Management\\Retail Product Management\\ProceedToBuyModule\\ProceedToBuy\\ProceedToBuy.csproj",
-        "packagesPath": "C:\\Users\\ABHISHEK\\.nuget\\packages\\",
-        "outputPath": "G:\\visual studio\\CTS MFPE Project V3\\backup\\Retail Product Management\\Retail Product Management\\ProceedToBuyModule\\ProceedToBuy\\obj\\",
+        "projectPath": "W:\\ProceedToBuyModule\\ProceedToBuy\\ProceedToBuy.csproj",
+        "packagesPath": "C:\\Users\\ascha\\.nuget\\packages\\",
+        "outputPath": "W:\\ProceedToBuyModule\\ProceedToBuy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ABHISHEK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ascha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

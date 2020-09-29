@@ -104,3 +104,45 @@ G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Pro
 G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.pdb
 G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.genruntimeconfig.cache
 G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\ProceedToBuy.yaml
+W:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\log4net.config
+W:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\appsettings.Development.json
+W:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\appsettings.json
+W:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+W:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\ProceedToBuy.exe
+W:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\ProceedToBuy.yaml
+W:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\ProceedToBuy.deps.json
+W:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\ProceedToBuy.runtimeconfig.json
+W:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\ProceedToBuy.runtimeconfig.dev.json
+W:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\ProceedToBuy.dll
+W:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\ProceedToBuy.pdb
+W:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\log4net.dll
+W:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+W:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+W:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+W:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+W:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+W:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+W:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+W:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+W:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+W:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+W:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+W:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+W:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+W:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+W:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+W:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+W:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+W:\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.csprojAssemblyReference.cache
+W:\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.AssemblyInfoInputs.cache
+W:\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.AssemblyInfo.cs
+W:\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.csproj.CoreCompileInputs.cache
+W:\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.MvcApplicationPartsAssemblyInfo.cs
+W:\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.MvcApplicationPartsAssemblyInfo.cache
+W:\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.RazorTargetAssemblyInfo.cache
+W:\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.csproj.CopyComplete
+W:\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\staticwebassets\ProceedToBuy.StaticWebAssets.Manifest.cache
+W:\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\staticwebassets\ProceedToBuy.StaticWebAssets.xml
+W:\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.dll
+W:\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.pdb
+W:\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.genruntimeconfig.cache
